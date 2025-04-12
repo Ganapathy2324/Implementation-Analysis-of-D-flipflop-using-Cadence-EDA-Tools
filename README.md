@@ -56,7 +56,10 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Output
 
 ### 1. Transient Analysis Output
+### Positive Latch
 ![Screenshot 2025-03-25 094917](https://github.com/user-attachments/assets/fa94cc50-5933-40bf-846f-db6294ce6d9f)
+### Negative Latch
+![Screenshot 2025-04-12 101445](https://github.com/user-attachments/assets/83b688cb-3477-42b3-8279-cc6009a991a0)
 
 
 ## Results
